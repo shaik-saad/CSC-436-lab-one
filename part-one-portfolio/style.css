@@ -1,0 +1,12 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.portrait-img{
+    width: 200px;
+    height: 200px;
+}
